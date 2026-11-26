@@ -3,7 +3,7 @@
 - **Mã đề:** 06
 - **Họ tên:*Dương Ngọc Hoàn*
 - **Lớp:*HCM-KS36-CNTT1*
-- **Link repository Pha1:**
+- **Link repository Pha1:*https://github.com/BonNgu/HCM-KS26-CNTT1_PromptAI_H02_Pha1*
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
